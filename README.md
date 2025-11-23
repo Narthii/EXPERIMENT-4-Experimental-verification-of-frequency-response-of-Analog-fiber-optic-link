@@ -71,7 +71,9 @@ Observe the detected signal at post ANALOG OUT on oscilloscope.
 ## TABULATION  
 **Transmission through Analog Link**
 
-![WhatsApp Image 2025-11-17 at 23 13 03_df7c1dfd](https://github.com/user-attachments/assets/430e5472-09b3-4819-805b-bf4ac3bb2d25)
+![WhatsApp Image 2025-11-23 at 21 46 27_4cdd111b](https://github.com/user-attachments/assets/313c48ac-0110-4433-94d7-729dca87f3fb)
+
+
 
 
 ---
@@ -84,8 +86,8 @@ Observe the detected signal at post ANALOG OUT on oscilloscope.
 
 ## GRAPH
 
+![WhatsApp Image 2025-11-23 at 21 46 28_ced94255](https://github.com/user-attachments/assets/e1c41a2b-61d0-4664-a7bb-73e5457b95f6)
 
-![WhatsApp Image 2025-11-17 at 23 13 03_6fea0c83](https://github.com/user-attachments/assets/19f3d839-7374-4627-8351-cb62d3a64070)
 
 ---
 ## RESULT
